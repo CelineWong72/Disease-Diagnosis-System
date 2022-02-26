@@ -1,4 +1,4 @@
-# Disease_Diagnosis_System
+# Disease-Diagnosis-System
 SW40703 Mini Project
 
 
